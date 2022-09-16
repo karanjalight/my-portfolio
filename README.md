@@ -8,6 +8,11 @@
 ### 🏠 [Homepage](home)
 
 ### ✨ [Demo](paulkaranja.netlify.app)
+mandemss
+One day things will get better
+I will buy me a banzo
+;0
+:) 
 
 ## Author
 
