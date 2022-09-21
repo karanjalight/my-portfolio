@@ -16,7 +16,7 @@ I will buy me a benzo
 
 ## Author
 
-<img alt="Version" src="https://img.shields.io/badge/version-1.01-blue.svg?cacheSeconds=2592000" />
+<img alt="Version" src="https://img.shields.io//stackexchange/:stackexchangesite/r/:query" />
 
 👤 **paul karanja**
 
