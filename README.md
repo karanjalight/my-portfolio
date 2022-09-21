@@ -10,11 +10,13 @@
 ### ✨ [Demo](paulkaranja.netlify.app)
 mandemss
 One day things will get better
-I will buy me a banzo
+I will buy me a benzo
 ;0
 :) 
 
 ## Author
+
+<img alt="Version" src="https://img.shields.io/badge/version-1.01-blue.svg?cacheSeconds=2592000" />
 
 👤 **paul karanja**
 
