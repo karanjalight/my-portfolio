@@ -35,3 +35,5 @@ Give a ⭐️ if this project helped you!
 ### Today I learnt docker 26th September 2022
 
 ### I have some projects to deploy
+
+I am self taught and I also took some udacity courses
